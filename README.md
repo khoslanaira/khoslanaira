@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naira Khosla</h1>
 <h3 align="center">💻 A passionate AI-focused software developer</h3>
 
-- 🔭 I’m currently working on **AgentPM: A Python + FastAPI + Gemini LLM + AWS-based intelligent project manager with risk prediction and resource optimization.**
-
 - 🌱 I’m currently learning **LangGraph, RAG pipelines, Context Engineering, and Agentic AI frameworks**
 
 - 👯 I’m looking to collaborate on **AI/ML-powered web applications — especially projects involving LLMs, FastAPI, or recommendation systems**
